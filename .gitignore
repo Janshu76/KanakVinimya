@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Data: raw files are large (~16 MB each) and processed files can be rebuilt
+data/raw/
+data/processed/
+
+# Python clutter
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.env

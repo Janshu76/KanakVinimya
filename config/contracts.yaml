@@ -1,0 +1,7 @@
+# One place for contract facts. "verified: false" means not yet checked against MCX's spec page.
+contracts:
+  GOLD:       {lot_grams: 1000, quote_grams: 10, purity: 995 purity, verified: True}
+  GOLDM:      {lot_grams: 100,  quote_grams: 10, purity: 995 purity, verified: True}
+  GOLDTEN:    {lot_grams: 10,   quote_grams: 10, purity: 999 purity, verified: True}
+  GOLDGUINEA: {lot_grams: 8,    quote_grams: 8,  purity: 999 purity, verified: True}
+  GOLDPETAL:  {lot_grams: 1,    quote_grams: 1,  purity: 999 purity, verified: True}
